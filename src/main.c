@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	printf("Hello, world!");
+	// I want it more pessimistic ;)
+	printf("Hello, cruel world!");
 	return 0;
 }
