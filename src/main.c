@@ -1,4 +1,7 @@
+#include "stdio.h"
+
 int main(void)
 {
-	// will this work at all?
+	printf("Hello, world!");
+	return 0;
 }
