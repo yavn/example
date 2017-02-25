@@ -1,1 +1,2 @@
 Let's add a new file here
+and write some text in it.
